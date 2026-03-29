@@ -12,3 +12,4 @@ class DataIngestion:
         
         print(f"Data Ingestion Successful: {data.shape[0]} movies loaded.")
         return data
+
